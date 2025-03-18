@@ -1,4 +1,4 @@
-package com.example.calendariodeactividades;
+package com.example.actividadesdiarias;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +14,7 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.calendariodeactividades.databinding.ActivityMainBinding;
+import com.example.actividadesdiarias.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

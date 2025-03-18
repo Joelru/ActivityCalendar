@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Calendario de actividades"
-include(":app")
- 
+rootProject.name = "Actividades Diarias"
+include ':app'

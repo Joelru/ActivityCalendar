@@ -1,4 +1,4 @@
-package com.example.calendariodeactividades;
+package com.example.actividadesdiarias;
 
 import org.junit.Test;
 
